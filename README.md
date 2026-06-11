@@ -1,17 +1,27 @@
-# Repository Data Science
+# 📊 Repository Data Science
 
-**Nama:** Deviani Solikhah
-**NIM:** 240401010137
-**Program Studi:** S1 PJJ Informatika
-**Kelas:** IF403
+## Identitas Mahasiswa
+
+**Nama** : Deviani Solikhah
+**NIM** : 240401010137
+**Program Studi** : S1 PJJ Informatika
+**Kelas** : IF403
+
+---
+
+## Tentang Saya
+
+Halo, saya Deviani Solikhah, mahasiswa Program Studi S1 PJJ Informatika kelas IF403. Repository ini saya buat sebagai dokumentasi proses pembelajaran mata kuliah Data Science selama perkuliahan berlangsung.
+
+Saya mempelajari Data Science untuk memahami bagaimana data dapat dikumpulkan, diolah, dianalisis, dan dimanfaatkan untuk menghasilkan informasi yang berguna dalam pengambilan keputusan. Melalui praktikum yang dilakukan, saya mempelajari berbagai tahapan pengolahan data mulai dari konsep dasar Data Science hingga penerapan Machine Learning sederhana menggunakan Python.
 
 ---
 
 ## Deskripsi Repository
 
-Repository ini saya buat sebagai dokumentasi seluruh kegiatan praktikum dan tugas mata kuliah Data Science selama perkuliahan berlangsung. Setiap notebook yang terdapat di dalam repository ini merupakan hasil pembelajaran dan latihan yang saya kerjakan mulai dari Pertemuan 1 hingga Pertemuan 7.
+Repository ini berisi kumpulan notebook praktikum dan tugas mata kuliah Data Science yang dikerjakan selama proses perkuliahan. 
 
-Melalui mata kuliah ini saya memperoleh pemahaman mengenai proses pengolahan data, mulai dari mengenal konsep dasar Data Science, mempelajari bahasa pemrograman Python, melakukan pengolahan dan pembersihan data, membuat visualisasi, hingga mengenal penerapan Machine Learning sederhana. Seluruh proses pembelajaran tersebut saya dokumentasikan dalam bentuk notebook agar dapat digunakan kembali sebagai bahan belajar di masa mendatang.
+Materi yang dipelajari mencakup pengenalan Data Science, penggunaan Python untuk analisis data, pengolahan data menggunakan NumPy dan Pandas, proses data cleaning, statistika dasar, visualisasi data, persiapan data untuk Machine Learning, hingga implementasi model Regresi Linear. Seluruh notebook disusun secara bertahap sebagai dokumentasi perjalanan belajar Data Science dari Pertemuan 1 sampai Pertemuan 7.
 
 ---
 
@@ -27,15 +37,18 @@ Melalui mata kuliah ini saya memperoleh pemahaman mengenai proses pengolahan dat
 | Pertemuan 6 | Persiapan Data (Data Preparation)  | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan6_DevianiSolikhah_240401010137.ipynb |
 | Pertemuan 7 | Pengantar Machine Learning: Regresi Linear  | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan7_DevianiSolikhah_240401010137.ipynb |
 
----
-
 ## Perangkat dan Library yang Digunakan
 
-Dalam praktikum ini saya menggunakan beberapa tools dan library pendukung, yaitu:
+Dalam praktikum Data Science ini saya menggunakan beberapa tools dan library pendukung, yaitu:
 
-* Python
-* Google Colab
+### Tools
+
+* Python 3
+* JupyterLab
 * GitHub
+
+### Library
+
 * NumPy
 * Pandas
 * Matplotlib
@@ -46,16 +59,25 @@ Dalam praktikum ini saya menggunakan beberapa tools dan library pendukung, yaitu
 
 ## Cara Menjalankan Notebook
 
-1. Buka repository ini melalui GitHub.
-2. Unduh notebook yang ingin dipelajari atau buka menggunakan Google Colab.
-3. Jalankan setiap cell secara berurutan dari awal hingga akhir.
-4. Pastikan seluruh library yang digunakan telah tersedia pada lingkungan kerja.
-5. Perhatikan output dan penjelasan yang terdapat pada masing-masing notebook.
+1. Pastikan Python 3 telah terinstal pada komputer.
+2. Install library yang dibutuhkan:
+   ```bash
+   pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
+   ```
+3. Jalankan JupyterLab melalui terminal:
+   ```bash
+   jupyter lab
+   ```
+4. Buka file notebook (.ipynb) yang ingin dijalankan.
+5. Jalankan setiap cell secara berurutan dari atas ke bawah.
+6. Pastikan seluruh library yang digunakan telah terinstal dengan baik agar notebook dapat berjalan tanpa error.
 
 ---
 
-## Refleksi Pembelajaran
+## Kesimpulan 
 
-Selama mengikuti praktikum Data Science, saya menyadari bahwa pengolahan data merupakan proses yang membutuhkan ketelitian dan pemahaman yang baik terhadap setiap tahapan analisis. Tidak hanya berfokus pada penulisan kode, tetapi juga pada kemampuan memahami karakteristik data dan menarik informasi yang bermanfaat dari data tersebut.
+Selama mengikuti praktikum Data Science dari Pertemuan 1 hingga Pertemuan 7, saya memperoleh pemahaman mengenai tahapan pengolahan data secara lengkap, mulai dari pengenalan konsep Data Science, penggunaan Python, pengelolaan data menggunakan NumPy dan Pandas, proses data cleaning, analisis statistik, visualisasi data, hingga persiapan data dan penerapan Machine Learning sederhana.
 
-Materi yang dipelajari dari pertemuan pertama hingga ketujuh memberikan gambaran yang lebih jelas mengenai alur kerja seorang praktisi Data Science. Dengan memahami proses pengumpulan, pembersihan, analisis, visualisasi, hingga pemodelan data, saya memperoleh pengalaman belajar yang dapat menjadi dasar untuk mempelajari topik Data Science yang lebih lanjut.
+Melalui rangkaian praktikum tersebut saya memahami bahwa kualitas data dan proses pengolahan yang tepat sangat berpengaruh terhadap hasil analisis maupun model yang dibangun. Selain itu, saya juga memperoleh pengalaman dalam menggunakan berbagai library Python untuk membantu proses pengolahan dan analisis data secara lebih efektif.
+
+Praktikum ini memberikan pemahaman yang lebih jelas mengenai alur kerja Data Science, mulai dari pengumpulan data, pembersihan data, eksplorasi data, visualisasi, hingga pembangunan model prediktif sederhana. Pengetahuan dan pengalaman yang diperoleh selama praktikum ini menjadi dasar yang kuat untuk mempelajari topik Data Science yang lebih lanjut di masa mendatang.
