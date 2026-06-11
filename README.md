@@ -20,12 +20,12 @@ Melalui mata kuliah ini saya memperoleh pemahaman mengenai proses pengolahan dat
 | Pertemuan   | Materi                                | Link                          |
 | ----------- | ------------------------------------- | ----------------------------- |
 | Pertemuan 1 | Pengenalan Data Science               | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan1_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 2 | Python, NumPy, dan Pandas             | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan2_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 3 | Data Cleaning dan Data Preparation    | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan3_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 4 | Statistika Dasar untuk Data Science   | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan4_DevianiSolikhah_240401010137.ipynb |
+| Pertemuan 2 | Struktur Data Python, NumPy, dan Pandas | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan2_DevianiSolikhah_240401010137.ipynb |
+| Pertemuan 3 | Data Cleaning: Missing Value, Duplikat, dan Outlier | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan3_DevianiSolikhah_240401010137.ipynb |
+| Pertemuan 4 | Statistika Dasar dan Analisis Data  | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan4_DevianiSolikhah_240401010137.ipynb |
 | Pertemuan 5 | Visualisasi Data                      | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan5_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 6 | Persiapan Data untuk Machine Learning | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan6_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 7 | Regresi Linear Sederhana              | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan7_DevianiSolikhah_240401010137.ipynb |
+| Pertemuan 6 | Persiapan Data (Data Preparation)  | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan6_DevianiSolikhah_240401010137.ipynb |
+| Pertemuan 7 | Pengantar Machine Learning: Regresi Linear  | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan7_DevianiSolikhah_240401010137.ipynb |
 
 ---
 
