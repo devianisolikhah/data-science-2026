@@ -22,7 +22,7 @@ Melalui mata kuliah ini saya memperoleh pemahaman mengenai proses pengolahan dat
 | Pertemuan   | Materi                                | Link                          |
 | ----------- | ------------------------------------- | ----------------------------- |
 | Pertemuan 1 | Pengenalan Data Science               | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan1_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 2 | Python, NumPy, dan Pandas             | [Isi setelah notebook diunggah](https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan2_DevianiSolikhah_240401010137.ipynb) |
+| Pertemuan 2 | Python, NumPy, dan Pandas             | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan2_DevianiSolikhah_240401010137.ipynb |
 | Pertemuan 3 | Data Cleaning dan Data Preparation    | Isi setelah notebook diunggah |
 | Pertemuan 4 | Statistika Dasar untuk Data Science   | Isi setelah notebook diunggah |
 | Pertemuan 5 | Visualisasi Data                      | Isi setelah notebook diunggah |
