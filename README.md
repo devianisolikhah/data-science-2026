@@ -25,7 +25,7 @@ Melalui mata kuliah ini saya memperoleh pemahaman mengenai proses pengolahan dat
 | Pertemuan 4 | Statistika Dasar untuk Data Science   | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan4_DevianiSolikhah_240401010137.ipynb |
 | Pertemuan 5 | Visualisasi Data                      | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan5_DevianiSolikhah_240401010137.ipynb |
 | Pertemuan 6 | Persiapan Data untuk Machine Learning | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan6_DevianiSolikhah_240401010137.ipynb |
-| Pertemuan 7 | Regresi Linear Sederhana              | Isi setelah notebook diunggah |
+| Pertemuan 7 | Regresi Linear Sederhana              | https://github.com/devianisolikhah/data-science-2026/blob/main/Pertemuan7_DevianiSolikhah_240401010137.ipynb |
 
 ---
 
